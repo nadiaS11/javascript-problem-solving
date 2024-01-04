@@ -32,3 +32,10 @@ const countTrue=(arr)=>{
     return trueArr.length
 }
 ```
+**4. Return the base-2(binary) of a base-10(decimal) number**
+
+```js client
+function binary(decimal) {
+	return decimal.toString(2);
+}
+```
